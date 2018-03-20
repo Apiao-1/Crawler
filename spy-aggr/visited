@@ -1,0 +1,42 @@
+{
+    "http://www.jycypt.com": {
+        "link": "http://www.jycypt.com",
+        "label": "root"
+    },
+    "http://www.jycypt.com/wanzhanjiesha/wangzhandaohang.yl": {
+        "link": "http://www.jycypt.com/wanzhanjiesha/wangzhandaohang.yl",
+        "inLabel": "网站导航"
+    },
+    "http://www.jycypt.com/wanzhanjiesha/zhaopinyingcai.yl": {
+        "link": "http://www.jycypt.com/wanzhanjiesha/zhaopinyingcai.yl",
+        "inLabel": "诚聘英才"
+    },
+    "http://www.jycypt.com/wanzhanjiesha/lianmengditu.yl": {
+        "link": "http://www.jycypt.com/wanzhanjiesha/lianmengditu.yl",
+        "inLabel": "联盟地图"
+    },
+    "http://www.jycypt.com/wanzhanjiesha/neibubangong.yl": {
+        "link": "http://www.jycypt.com/wanzhanjiesha/neibubangong.yl",
+        "inLabel": "内部办公"
+    },
+    "http://www.jycypt.com/wanzhanjiesha/woyaotougao.yl": {
+        "link": "http://www.jycypt.com/wanzhanjiesha/woyaotougao.yl",
+        "inLabel": "我要投稿"
+    },
+    "http://www.jycypt.com/wanzhanjiesha/lianxiwomen.yl": {
+        "link": "http://www.jycypt.com/wanzhanjiesha/lianxiwomen.yl",
+        "inLabel": "联系我们"
+    },
+    "http://www.jycypt.com/wanzhanjiesha/falvshengming.yl": {
+        "link": "http://www.jycypt.com/wanzhanjiesha/falvshengming.yl",
+        "inLabel": "法律申明"
+    },
+    "http://www.jycypt.com/wanzhanjiesha/zhaoshangjiameng.yl": {
+        "link": "http://www.jycypt.com/wanzhanjiesha/zhaoshangjiameng.yl",
+        "inLabel": "招商加盟"
+    },
+    "http://www.jycypt.com/wanzhanjiesha/guanggaofuwu.yl": {
+        "link": "http://www.jycypt.com/wanzhanjiesha/guanggaofuwu.yl",
+        "inLabel": "广告服务"
+    }
+}
